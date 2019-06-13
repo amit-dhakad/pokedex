@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import Pokecard from './components/pokecard/pokecard';
+import Pokedex from './components/pokedex/pokedex';
 function App() {
   return (
     <div className="App">
-      <Pokecard name="Charmander" id={4} type="fire" exp={62} />
+      <Pokedex />
     </div>
   );
 }
