@@ -3,3 +3,11 @@
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
+
+.Pokemon-winner {
+  color: green;
+}
+
+.Pokemon-loser {
+  color: red;
+}
